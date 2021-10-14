@@ -9,7 +9,7 @@ namespace Hola_Mundo
         {
             //Console,writeLine me permite escribir en la consola con un salto de linea muy parecidoa 
             //Sistem.out.println() con ln para el salto de linea en la siguiente impresion
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Mundo!");
             Console.WriteLine("Te saluda Edgar Ivan Lorenzo Villalobos");
             //Sin salto de linea en la siguiente impresion
             Console.Write("Hola");
