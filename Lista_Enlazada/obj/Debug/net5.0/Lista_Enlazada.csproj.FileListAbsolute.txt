@@ -1,0 +1,15 @@
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Lista_Enlazada/bin/Debug/net5.0/Lista_Enlazada.deps.json
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Lista_Enlazada/bin/Debug/net5.0/Lista_Enlazada.runtimeconfig.json
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Lista_Enlazada/bin/Debug/net5.0/Lista_Enlazada.runtimeconfig.dev.json
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Lista_Enlazada/bin/Debug/net5.0/Lista_Enlazada.dll
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Lista_Enlazada/bin/Debug/net5.0/ref/Lista_Enlazada.dll
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Lista_Enlazada/bin/Debug/net5.0/Lista_Enlazada.pdb
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Lista_Enlazada/obj/Debug/net5.0/Lista_Enlazada.csproj.AssemblyReference.cache
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Lista_Enlazada/obj/Debug/net5.0/Lista_Enlazada.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Lista_Enlazada/obj/Debug/net5.0/Lista_Enlazada.AssemblyInfoInputs.cache
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Lista_Enlazada/obj/Debug/net5.0/Lista_Enlazada.AssemblyInfo.cs
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Lista_Enlazada/obj/Debug/net5.0/Lista_Enlazada.csproj.CoreCompileInputs.cache
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Lista_Enlazada/obj/Debug/net5.0/Lista_Enlazada.dll
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Lista_Enlazada/obj/Debug/net5.0/ref/Lista_Enlazada.dll
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Lista_Enlazada/obj/Debug/net5.0/Lista_Enlazada.pdb
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Lista_Enlazada/obj/Debug/net5.0/Lista_Enlazada.genruntimeconfig.cache

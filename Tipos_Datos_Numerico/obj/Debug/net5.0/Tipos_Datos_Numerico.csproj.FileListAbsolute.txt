@@ -1,0 +1,15 @@
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_Numerico/obj/Debug/net5.0/Tipos_Datos_Numerico.csproj.AssemblyReference.cache
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_Numerico/obj/Debug/net5.0/Tipos_Datos_Numerico.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_Numerico/obj/Debug/net5.0/Tipos_Datos_Numerico.AssemblyInfoInputs.cache
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_Numerico/obj/Debug/net5.0/Tipos_Datos_Numerico.AssemblyInfo.cs
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_Numerico/obj/Debug/net5.0/Tipos_Datos_Numerico.csproj.CoreCompileInputs.cache
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_Numerico/bin/Debug/net5.0/Tipos_Datos_Numerico.deps.json
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_Numerico/bin/Debug/net5.0/Tipos_Datos_Numerico.runtimeconfig.json
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_Numerico/bin/Debug/net5.0/Tipos_Datos_Numerico.runtimeconfig.dev.json
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_Numerico/bin/Debug/net5.0/Tipos_Datos_Numerico.dll
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_Numerico/bin/Debug/net5.0/ref/Tipos_Datos_Numerico.dll
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_Numerico/bin/Debug/net5.0/Tipos_Datos_Numerico.pdb
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_Numerico/obj/Debug/net5.0/Tipos_Datos_Numerico.dll
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_Numerico/obj/Debug/net5.0/ref/Tipos_Datos_Numerico.dll
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_Numerico/obj/Debug/net5.0/Tipos_Datos_Numerico.pdb
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_Numerico/obj/Debug/net5.0/Tipos_Datos_Numerico.genruntimeconfig.cache

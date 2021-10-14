@@ -1,0 +1,15 @@
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Curso C char/bin/Debug/net5.0/Curso C char.deps.json
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Curso C char/bin/Debug/net5.0/Curso C char.runtimeconfig.json
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Curso C char/bin/Debug/net5.0/Curso C char.runtimeconfig.dev.json
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Curso C char/bin/Debug/net5.0/Curso C char.dll
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Curso C char/bin/Debug/net5.0/ref/Curso C char.dll
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Curso C char/bin/Debug/net5.0/Curso C char.pdb
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Curso C char/obj/Debug/net5.0/Curso C char.csproj.AssemblyReference.cache
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Curso C char/obj/Debug/net5.0/Curso C char.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Curso C char/obj/Debug/net5.0/Curso C char.AssemblyInfoInputs.cache
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Curso C char/obj/Debug/net5.0/Curso C char.AssemblyInfo.cs
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Curso C char/obj/Debug/net5.0/Curso C char.csproj.CoreCompileInputs.cache
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Curso C char/obj/Debug/net5.0/Curso C char.dll
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Curso C char/obj/Debug/net5.0/ref/Curso C char.dll
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Curso C char/obj/Debug/net5.0/Curso C char.pdb
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Curso C char/obj/Debug/net5.0/Curso C char.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_String/bin/Debug/net5.0/Tipos_Datos_String.deps.json
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_String/bin/Debug/net5.0/Tipos_Datos_String.runtimeconfig.json
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_String/bin/Debug/net5.0/Tipos_Datos_String.runtimeconfig.dev.json
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_String/bin/Debug/net5.0/Tipos_Datos_String.dll
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_String/bin/Debug/net5.0/ref/Tipos_Datos_String.dll
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_String/bin/Debug/net5.0/Tipos_Datos_String.pdb
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_String/obj/Debug/net5.0/Tipos_Datos_String.csproj.AssemblyReference.cache
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_String/obj/Debug/net5.0/Tipos_Datos_String.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_String/obj/Debug/net5.0/Tipos_Datos_String.AssemblyInfoInputs.cache
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_String/obj/Debug/net5.0/Tipos_Datos_String.AssemblyInfo.cs
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_String/obj/Debug/net5.0/Tipos_Datos_String.csproj.CoreCompileInputs.cache
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_String/obj/Debug/net5.0/Tipos_Datos_String.dll
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_String/obj/Debug/net5.0/ref/Tipos_Datos_String.dll
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_String/obj/Debug/net5.0/Tipos_Datos_String.pdb
+/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Tipos_Datos_String/obj/Debug/net5.0/Tipos_Datos_String.genruntimeconfig.cache
