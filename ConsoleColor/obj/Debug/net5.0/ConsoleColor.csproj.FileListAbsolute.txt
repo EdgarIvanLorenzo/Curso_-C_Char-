@@ -1,0 +1,15 @@
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/ConsoleColor/bin/Debug/net5.0/ConsoleColor.deps.json
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/ConsoleColor/bin/Debug/net5.0/ConsoleColor.runtimeconfig.json
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/ConsoleColor/bin/Debug/net5.0/ConsoleColor.runtimeconfig.dev.json
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/ConsoleColor/bin/Debug/net5.0/ConsoleColor.dll
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/ConsoleColor/bin/Debug/net5.0/ref/ConsoleColor.dll
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/ConsoleColor/bin/Debug/net5.0/ConsoleColor.pdb
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/ConsoleColor/obj/Debug/net5.0/ConsoleColor.csproj.AssemblyReference.cache
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/ConsoleColor/obj/Debug/net5.0/ConsoleColor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/ConsoleColor/obj/Debug/net5.0/ConsoleColor.AssemblyInfoInputs.cache
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/ConsoleColor/obj/Debug/net5.0/ConsoleColor.AssemblyInfo.cs
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/ConsoleColor/obj/Debug/net5.0/ConsoleColor.csproj.CoreCompileInputs.cache
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/ConsoleColor/obj/Debug/net5.0/ConsoleColor.dll
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/ConsoleColor/obj/Debug/net5.0/ref/ConsoleColor.dll
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/ConsoleColor/obj/Debug/net5.0/ConsoleColor.pdb
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/ConsoleColor/obj/Debug/net5.0/ConsoleColor.genruntimeconfig.cache

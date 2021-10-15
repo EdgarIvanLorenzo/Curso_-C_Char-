@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Lista_Enlazada/Lista_Enlazada.csproj": {}
+    "/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/Lista_Enlazada/Lista_Enlazada.csproj": {}
   },
   "projects": {
-    "/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Lista_Enlazada/Lista_Enlazada.csproj": {
+    "/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/Lista_Enlazada/Lista_Enlazada.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Lista_Enlazada/Lista_Enlazada.csproj",
+        "projectUniqueName": "/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/Lista_Enlazada/Lista_Enlazada.csproj",
         "projectName": "Lista_Enlazada",
-        "projectPath": "/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Lista_Enlazada/Lista_Enlazada.csproj",
-        "packagesPath": "/Users/edgarivanlorenzovillalobos/.nuget/packages/",
-        "outputPath": "/Users/edgarivanlorenzovillalobos/RiderProjects/Curso C char/Lista_Enlazada/obj/",
+        "projectPath": "/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/Lista_Enlazada/Lista_Enlazada.csproj",
+        "packagesPath": "/Users/franciscolorenzolopez/.nuget/packages/",
+        "outputPath": "/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/Lista_Enlazada/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/edgarivanlorenzovillalobos/.nuget/NuGet/NuGet.Config"
+          "/Users/franciscolorenzolopez/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }

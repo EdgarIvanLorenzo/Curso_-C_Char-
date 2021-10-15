@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Leer_Linea/1.0.0": {
+        "runtime": {
+          "Leer_Linea.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Leer_Linea/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

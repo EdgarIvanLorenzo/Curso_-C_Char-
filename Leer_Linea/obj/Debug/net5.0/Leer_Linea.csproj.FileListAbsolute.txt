@@ -1,0 +1,15 @@
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/Leer_Linea/bin/Debug/net5.0/Leer_Linea.deps.json
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/Leer_Linea/bin/Debug/net5.0/Leer_Linea.runtimeconfig.json
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/Leer_Linea/bin/Debug/net5.0/Leer_Linea.runtimeconfig.dev.json
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/Leer_Linea/bin/Debug/net5.0/Leer_Linea.dll
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/Leer_Linea/bin/Debug/net5.0/ref/Leer_Linea.dll
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/Leer_Linea/bin/Debug/net5.0/Leer_Linea.pdb
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/Leer_Linea/obj/Debug/net5.0/Leer_Linea.csproj.AssemblyReference.cache
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/Leer_Linea/obj/Debug/net5.0/Leer_Linea.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/Leer_Linea/obj/Debug/net5.0/Leer_Linea.AssemblyInfoInputs.cache
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/Leer_Linea/obj/Debug/net5.0/Leer_Linea.AssemblyInfo.cs
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/Leer_Linea/obj/Debug/net5.0/Leer_Linea.csproj.CoreCompileInputs.cache
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/Leer_Linea/obj/Debug/net5.0/Leer_Linea.dll
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/Leer_Linea/obj/Debug/net5.0/ref/Leer_Linea.dll
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/Leer_Linea/obj/Debug/net5.0/Leer_Linea.pdb
+/Users/franciscolorenzolopez/Documents/Curso_-C_Char-/Leer_Linea/obj/Debug/net5.0/Leer_Linea.genruntimeconfig.cache
